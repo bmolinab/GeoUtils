@@ -5,7 +5,9 @@ Es una libreria para la ayuda de calculos Gereferenciales
 
 ```csharp
 var estadentro = GeoUtils.EnElPoligono(ListaDePuntos,Puntoespecifico);
-//la respuesta sera un boleano
+var EstaCerca = GeoUtils.EstaCercaDeMi(PuntoInicial,PuntoFinal,Distancia);
+
+//las respuesta seran un boleano
 ```
 
 ![alt tag](https://github.com/nvalle88/ServiciosWeb/blob/master/DS.png)
