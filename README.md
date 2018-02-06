@@ -1,6 +1,6 @@
 # GeoUtils
 
-Es una libreria para la ayuda de calculos Gereferenciales
+Es una libreria para la ayuda de calculos Georreferenciales
 ## Como Usarlo
 
 ```csharp
